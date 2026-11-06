@@ -1,0 +1,5 @@
+build/
+result
+*.class
+*.jar
+.direnv/
